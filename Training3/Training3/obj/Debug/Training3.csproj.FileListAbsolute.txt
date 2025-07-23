@@ -1,0 +1,8 @@
+C:\Users\udayakumar\Day3\Training3\Training3\bin\Debug\Training3.exe.config
+C:\Users\udayakumar\Day3\Training3\Training3\bin\Debug\Training3.exe
+C:\Users\udayakumar\Day3\Training3\Training3\bin\Debug\Training3.pdb
+C:\Users\udayakumar\Day3\Training3\Training3\obj\Debug\Training3.csproj.AssemblyReference.cache
+C:\Users\udayakumar\Day3\Training3\Training3\obj\Debug\Training3.csproj.CoreCompileInputs.cache
+C:\Users\udayakumar\Day3\Training3\Training3\obj\Debug\Training3.exe
+C:\Users\udayakumar\Day3\Training3\Training3\obj\Debug\Training3.pdb
+C:\Users\udayakumar\Day3\Training3\Training3\obj\Debug\Training3.exe.config

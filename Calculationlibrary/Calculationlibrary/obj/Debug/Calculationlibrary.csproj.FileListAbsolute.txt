@@ -1,0 +1,6 @@
+C:\Users\udayakumar\Day3\Calculationlibrary\Calculationlibrary\bin\Debug\Calculationlibrary.dll
+C:\Users\udayakumar\Day3\Calculationlibrary\Calculationlibrary\bin\Debug\Calculationlibrary.pdb
+C:\Users\udayakumar\Day3\Calculationlibrary\Calculationlibrary\obj\Debug\Calculationlibrary.csproj.AssemblyReference.cache
+C:\Users\udayakumar\Day3\Calculationlibrary\Calculationlibrary\obj\Debug\Calculationlibrary.csproj.CoreCompileInputs.cache
+C:\Users\udayakumar\Day3\Calculationlibrary\Calculationlibrary\obj\Debug\Calculationlibrary.dll
+C:\Users\udayakumar\Day3\Calculationlibrary\Calculationlibrary\obj\Debug\Calculationlibrary.pdb
