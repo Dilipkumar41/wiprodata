@@ -1,0 +1,8 @@
+C:\Users\udayakumar\Day4\Exception\bin\Debug\Exception.exe.config
+C:\Users\udayakumar\Day4\Exception\bin\Debug\Exception.exe
+C:\Users\udayakumar\Day4\Exception\bin\Debug\Exception.pdb
+C:\Users\udayakumar\Day4\Exception\obj\Debug\Exception.csproj.AssemblyReference.cache
+C:\Users\udayakumar\Day4\Exception\obj\Debug\Exception.csproj.CoreCompileInputs.cache
+C:\Users\udayakumar\Day4\Exception\obj\Debug\Exception.exe
+C:\Users\udayakumar\Day4\Exception\obj\Debug\Exception.pdb
+C:\Users\udayakumar\Day4\Exception\obj\Debug\Exception.exe.config

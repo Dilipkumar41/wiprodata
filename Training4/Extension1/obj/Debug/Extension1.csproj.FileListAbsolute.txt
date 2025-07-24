@@ -1,0 +1,7 @@
+C:\Users\udayakumar\Day4\Extension1\bin\Debug\Extension1.exe.config
+C:\Users\udayakumar\Day4\Extension1\bin\Debug\Extension1.exe
+C:\Users\udayakumar\Day4\Extension1\bin\Debug\Extension1.pdb
+C:\Users\udayakumar\Day4\Extension1\obj\Debug\Extension1.csproj.AssemblyReference.cache
+C:\Users\udayakumar\Day4\Extension1\obj\Debug\Extension1.csproj.CoreCompileInputs.cache
+C:\Users\udayakumar\Day4\Extension1\obj\Debug\Extension1.exe
+C:\Users\udayakumar\Day4\Extension1\obj\Debug\Extension1.pdb

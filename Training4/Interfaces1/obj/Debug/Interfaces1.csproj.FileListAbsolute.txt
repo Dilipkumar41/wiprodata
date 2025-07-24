@@ -1,0 +1,8 @@
+C:\Users\udayakumar\Day4\Interfaces1\bin\Debug\Interfaces1.exe.config
+C:\Users\udayakumar\Day4\Interfaces1\bin\Debug\Interfaces1.exe
+C:\Users\udayakumar\Day4\Interfaces1\bin\Debug\Interfaces1.pdb
+C:\Users\udayakumar\Day4\Interfaces1\obj\Debug\Interfaces1.csproj.AssemblyReference.cache
+C:\Users\udayakumar\Day4\Interfaces1\obj\Debug\Interfaces1.csproj.CoreCompileInputs.cache
+C:\Users\udayakumar\Day4\Interfaces1\obj\Debug\Interfaces1.exe
+C:\Users\udayakumar\Day4\Interfaces1\obj\Debug\Interfaces1.pdb
+C:\Users\udayakumar\Day4\Interfaces1\obj\Debug\Interfaces1.exe.config
