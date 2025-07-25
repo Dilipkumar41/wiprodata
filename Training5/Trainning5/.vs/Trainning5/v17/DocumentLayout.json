@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\udayakumar\\Day5\\Trainning5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBC5D75-AB6E-46B7-8B34-24B8F8516784}|..\\Properties\\Properties.csproj|c:\\users\\udayakumar\\day5\\properties\\readonly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF9B096-410C-4F8A-8995-F450A2A49F7A}|Trainning5\\Training5.csproj|c:\\users\\udayakumar\\day5\\trainning5\\trainning5\\filterexceptionex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CF9B096-410C-4F8A-8995-F450A2A49F7A}|Trainning5\\Training5.csproj|solutionrelative:trainning5\\filterexceptionex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Training5||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF9B096-410C-4F8A-8995-F450A2A49F7A}|Trainning5\\Training5.csproj|c:\\users\\udayakumar\\day5\\trainning5\\trainning5\\filterexception1,1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CF9B096-410C-4F8A-8995-F450A2A49F7A}|Trainning5\\Training5.csproj|solutionrelative:trainning5\\filterexception1,1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF9B096-410C-4F8A-8995-F450A2A49F7A}|Trainning5\\Training5.csproj|c:\\users\\udayakumar\\day5\\trainning5\\trainning5\\milestoneexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CF9B096-410C-4F8A-8995-F450A2A49F7A}|Trainning5\\Training5.csproj|solutionrelative:trainning5\\milestoneexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF9B096-410C-4F8A-8995-F450A2A49F7A}|Trainning5\\Training5.csproj|c:\\users\\udayakumar\\day5\\trainning5\\trainning5\\filterexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CF9B096-410C-4F8A-8995-F450A2A49F7A}|Trainning5\\Training5.csproj|solutionrelative:trainning5\\filterexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF9B096-410C-4F8A-8995-F450A2A49F7A}|Trainning5\\Training5.csproj|c:\\users\\udayakumar\\day5\\trainning5\\trainning5\\filterexceptionex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CF9B096-410C-4F8A-8995-F450A2A49F7A}|Trainning5\\Training5.csproj|solutionrelative:trainning5\\filterexceptionex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF9B096-410C-4F8A-8995-F450A2A49F7A}|Trainning5\\Training5.csproj|c:\\users\\udayakumar\\day5\\trainning5\\trainning5\\exceptionhandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CF9B096-410C-4F8A-8995-F450A2A49F7A}|Trainning5\\Training5.csproj|solutionrelative:trainning5\\exceptionhandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CF9B096-410C-4F8A-8995-F450A2A49F7A}|Trainning5\\Training5.csproj|c:\\users\\udayakumar\\day5\\trainning5\\trainning5\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Readonly.cs",
+              "DocumentMoniker": "C:\\Users\\udayakumar\\Day5\\Properties\\Readonly.cs",
+              "RelativeDocumentMoniker": "..\\Properties\\Readonly.cs",
+              "ToolTip": "C:\\Users\\udayakumar\\Day5\\Properties\\Readonly.cs",
+              "RelativeToolTip": "..\\Properties\\Readonly.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAvwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T10:06:40.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FilterException1,1.cs",
+              "DocumentMoniker": "C:\\Users\\udayakumar\\Day5\\Trainning5\\Trainning5\\FilterException1,1.cs",
+              "RelativeDocumentMoniker": "Trainning5\\FilterException1,1.cs",
+              "ToolTip": "C:\\Users\\udayakumar\\Day5\\Trainning5\\Trainning5\\FilterException1,1.cs",
+              "RelativeToolTip": "Trainning5\\FilterException1,1.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAqwEEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T09:33:50.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Filterexceptionex1.cs",
+              "DocumentMoniker": "C:\\Users\\udayakumar\\Day5\\Trainning5\\Trainning5\\Filterexceptionex1.cs",
+              "RelativeDocumentMoniker": "Trainning5\\Filterexceptionex1.cs",
+              "ToolTip": "C:\\Users\\udayakumar\\Day5\\Trainning5\\Trainning5\\Filterexceptionex1.cs",
+              "RelativeToolTip": "Trainning5\\Filterexceptionex1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T09:32:43.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Training5",
+              "DocumentMoniker": "C:\\Users\\udayakumar\\Day5\\Trainning5\\Trainning5\\Training5.csproj",
+              "RelativeDocumentMoniker": "Trainning5\\Training5.csproj",
+              "ToolTip": "C:\\Users\\udayakumar\\Day5\\Trainning5\\Trainning5\\Training5.csproj",
+              "RelativeToolTip": "Trainning5\\Training5.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-25T09:23:17.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Filterexceptionex.cs",
+              "DocumentMoniker": "C:\\Users\\udayakumar\\Day5\\Trainning5\\Trainning5\\Filterexceptionex.cs",
+              "RelativeDocumentMoniker": "Trainning5\\Filterexceptionex.cs",
+              "ToolTip": "C:\\Users\\udayakumar\\Day5\\Trainning5\\Trainning5\\Filterexceptionex.cs",
+              "RelativeToolTip": "Trainning5\\Filterexceptionex.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T09:21:05.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Filterexception.cs",
+              "DocumentMoniker": "C:\\Users\\udayakumar\\Day5\\Trainning5\\Trainning5\\Filterexception.cs",
+              "RelativeDocumentMoniker": "Trainning5\\Filterexception.cs",
+              "ToolTip": "C:\\Users\\udayakumar\\Day5\\Trainning5\\Trainning5\\Filterexception.cs",
+              "RelativeToolTip": "Trainning5\\Filterexception.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T09:19:34.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Milestoneexam.cs",
+              "DocumentMoniker": "C:\\Users\\udayakumar\\Day5\\Trainning5\\Trainning5\\Milestoneexam.cs",
+              "RelativeDocumentMoniker": "Trainning5\\Milestoneexam.cs",
+              "ToolTip": "C:\\Users\\udayakumar\\Day5\\Trainning5\\Trainning5\\Milestoneexam.cs",
+              "RelativeToolTip": "Trainning5\\Milestoneexam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T08:59:04.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExceptionHandling.cs",
+              "DocumentMoniker": "C:\\Users\\udayakumar\\Day5\\Trainning5\\Trainning5\\ExceptionHandling.cs",
+              "RelativeDocumentMoniker": "Trainning5\\ExceptionHandling.cs",
+              "ToolTip": "C:\\Users\\udayakumar\\Day5\\Trainning5\\Trainning5\\ExceptionHandling.cs",
+              "RelativeToolTip": "Trainning5\\ExceptionHandling.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T08:49:33.357Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

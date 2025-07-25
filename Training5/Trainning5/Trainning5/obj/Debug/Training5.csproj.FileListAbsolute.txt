@@ -1,0 +1,8 @@
+C:\Users\udayakumar\Day5\Trainning5\Trainning5\bin\Debug\Trainning5.exe.config
+C:\Users\udayakumar\Day5\Trainning5\Trainning5\bin\Debug\Trainning5.exe
+C:\Users\udayakumar\Day5\Trainning5\Trainning5\bin\Debug\Trainning5.pdb
+C:\Users\udayakumar\Day5\Trainning5\Trainning5\obj\Debug\Training5.csproj.AssemblyReference.cache
+C:\Users\udayakumar\Day5\Trainning5\Trainning5\obj\Debug\Training5.csproj.CoreCompileInputs.cache
+C:\Users\udayakumar\Day5\Trainning5\Trainning5\obj\Debug\Trainning5.exe
+C:\Users\udayakumar\Day5\Trainning5\Trainning5\obj\Debug\Trainning5.pdb
+C:\Users\udayakumar\Day5\Trainning5\Trainning5\obj\Debug\Trainning5.exe.config
