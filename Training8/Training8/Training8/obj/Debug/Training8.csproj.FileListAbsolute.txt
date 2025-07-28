@@ -1,0 +1,7 @@
+C:\Users\udayakumar\Day8\Training8\Training8\bin\Debug\Training8.exe.config
+C:\Users\udayakumar\Day8\Training8\Training8\bin\Debug\Training8.exe
+C:\Users\udayakumar\Day8\Training8\Training8\bin\Debug\Training8.pdb
+C:\Users\udayakumar\Day8\Training8\Training8\obj\Debug\Training8.csproj.AssemblyReference.cache
+C:\Users\udayakumar\Day8\Training8\Training8\obj\Debug\Training8.csproj.CoreCompileInputs.cache
+C:\Users\udayakumar\Day8\Training8\Training8\obj\Debug\Training8.exe
+C:\Users\udayakumar\Day8\Training8\Training8\obj\Debug\Training8.pdb

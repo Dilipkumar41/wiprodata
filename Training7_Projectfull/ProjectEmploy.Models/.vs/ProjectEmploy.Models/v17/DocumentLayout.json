@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\udayakumar\\Day7\\ProjectEmploy.Models\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29764BE9-2923-43B0-B8BA-F67DE736BA9B}|..\\EmployeProject.MainOne\\EmployeProject.MainOne.csproj|c:\\users\\udayakumar\\day7\\employeproject.mainone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ACBD395-8C14-4EED-9200-19B79EDBEA5E}|..\\EmployProject.Bal\\EmployProject.Bal.csproj|c:\\users\\udayakumar\\day7\\employproject.bal\\employbal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32847A6F-AE0E-489D-A31F-EB4842620AD0}|..\\EmployProject.Exceptions\\EmployProject.Exceptions.csproj|c:\\users\\udayakumar\\day7\\employproject.exceptions\\employexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{747407DB-BFF3-43DE-BABC-44F16268ACAA}|ProjectEmploy.Models\\ProjectEmploy.Models.csproj|C:\\Users\\udayakumar\\Day7\\ProjectEmploy.Models\\projectemploy.models\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{747407DB-BFF3-43DE-BABC-44F16268ACAA}|ProjectEmploy.Models\\ProjectEmploy.Models.csproj|solutionrelative:projectemploy.models\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A43C5E-1636-401A-A3A2-AE5184B27FC7}|..\\EmployProject.Dao\\EmployProject.Dao.csproj|c:\\users\\udayakumar\\day7\\employproject.dao\\iemploydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80A43C5E-1636-401A-A3A2-AE5184B27FC7}|..\\EmployProject.Dao\\EmployProject.Dao.csproj|c:\\users\\udayakumar\\day7\\employproject.dao\\employdaoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\udayakumar\\Day7\\EmployeProject.MainOne\\Program.cs",
+              "RelativeDocumentMoniker": "..\\EmployeProject.MainOne\\Program.cs",
+              "ToolTip": "C:\\Users\\udayakumar\\Day7\\EmployeProject.MainOne\\Program.cs",
+              "RelativeToolTip": "..\\EmployeProject.MainOne\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T04:25:39.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployBal.cs",
+              "DocumentMoniker": "C:\\Users\\udayakumar\\Day7\\EmployProject.Bal\\EmployBal.cs",
+              "RelativeDocumentMoniker": "..\\EmployProject.Bal\\EmployBal.cs",
+              "ToolTip": "C:\\Users\\udayakumar\\Day7\\EmployProject.Bal\\EmployBal.cs",
+              "RelativeToolTip": "..\\EmployProject.Bal\\EmployBal.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAFQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T03:12:19.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEmployDao.cs",
+              "DocumentMoniker": "C:\\Users\\udayakumar\\Day7\\EmployProject.Dao\\IEmployDao.cs",
+              "RelativeDocumentMoniker": "..\\EmployProject.Dao\\IEmployDao.cs",
+              "ToolTip": "C:\\Users\\udayakumar\\Day7\\EmployProject.Dao\\IEmployDao.cs",
+              "RelativeToolTip": "..\\EmployProject.Dao\\IEmployDao.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T16:35:45.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployDaoImpl.cs",
+              "DocumentMoniker": "C:\\Users\\udayakumar\\Day7\\EmployProject.Dao\\EmployDaoImpl.cs",
+              "RelativeDocumentMoniker": "..\\EmployProject.Dao\\EmployDaoImpl.cs",
+              "ToolTip": "C:\\Users\\udayakumar\\Day7\\EmployProject.Dao\\EmployDaoImpl.cs",
+              "RelativeToolTip": "..\\EmployProject.Dao\\EmployDaoImpl.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAYwGIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T16:34:55.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployException.cs",
+              "DocumentMoniker": "C:\\Users\\udayakumar\\Day7\\EmployProject.Exceptions\\EmployException.cs",
+              "RelativeDocumentMoniker": "..\\EmployProject.Exceptions\\EmployException.cs",
+              "ToolTip": "C:\\Users\\udayakumar\\Day7\\EmployProject.Exceptions\\EmployException.cs",
+              "RelativeToolTip": "..\\EmployProject.Exceptions\\EmployException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T16:16:07.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employ.cs",
+              "DocumentMoniker": "C:\\Users\\udayakumar\\Day7\\ProjectEmploy.Models\\ProjectEmploy.Models\\Employ.cs",
+              "RelativeDocumentMoniker": "ProjectEmploy.Models\\Employ.cs",
+              "ToolTip": "C:\\Users\\udayakumar\\Day7\\ProjectEmploy.Models\\ProjectEmploy.Models\\Employ.cs",
+              "RelativeToolTip": "ProjectEmploy.Models\\Employ.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T16:00:56.099Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+C:\Users\udayakumar\Day7\ProjectEmploy.Models\ProjectEmploy.Models\bin\Debug\ProjectEmploy.Models.dll
+C:\Users\udayakumar\Day7\ProjectEmploy.Models\ProjectEmploy.Models\bin\Debug\ProjectEmploy.Models.pdb
+C:\Users\udayakumar\Day7\ProjectEmploy.Models\ProjectEmploy.Models\obj\Debug\ProjectEmploy.Models.csproj.AssemblyReference.cache
+C:\Users\udayakumar\Day7\ProjectEmploy.Models\ProjectEmploy.Models\obj\Debug\ProjectEmploy.Models.csproj.CoreCompileInputs.cache
+C:\Users\udayakumar\Day7\ProjectEmploy.Models\ProjectEmploy.Models\obj\Debug\ProjectEmploy.Models.dll
+C:\Users\udayakumar\Day7\ProjectEmploy.Models\ProjectEmploy.Models\obj\Debug\ProjectEmploy.Models.pdb

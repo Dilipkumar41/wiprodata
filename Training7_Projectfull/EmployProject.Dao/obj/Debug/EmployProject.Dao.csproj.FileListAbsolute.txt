@@ -1,0 +1,9 @@
+C:\Users\udayakumar\Day7\EmployProject.Dao\bin\Debug\EmployProject.Dao.dll
+C:\Users\udayakumar\Day7\EmployProject.Dao\bin\Debug\EmployProject.Dao.pdb
+C:\Users\udayakumar\Day7\EmployProject.Dao\obj\Debug\EmployProject.Dao.csproj.AssemblyReference.cache
+C:\Users\udayakumar\Day7\EmployProject.Dao\obj\Debug\EmployProject.Dao.csproj.CoreCompileInputs.cache
+C:\Users\udayakumar\Day7\EmployProject.Dao\obj\Debug\EmployProject.Dao.dll
+C:\Users\udayakumar\Day7\EmployProject.Dao\obj\Debug\EmployProject.Dao.pdb
+C:\Users\udayakumar\Day7\EmployProject.Dao\bin\Debug\ProjectEmploy.Models.dll
+C:\Users\udayakumar\Day7\EmployProject.Dao\bin\Debug\ProjectEmploy.Models.pdb
+C:\Users\udayakumar\Day7\EmployProject.Dao\obj\Debug\EmployPr.C7CEE7C7.Up2Date

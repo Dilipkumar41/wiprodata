@@ -1,0 +1,17 @@
+C:\Users\udayakumar\Day7\EmployeProject.MainOne\bin\Debug\EmployeProject.MainOne.exe.config
+C:\Users\udayakumar\Day7\EmployeProject.MainOne\bin\Debug\EmployeProject.MainOne.exe
+C:\Users\udayakumar\Day7\EmployeProject.MainOne\bin\Debug\EmployeProject.MainOne.pdb
+C:\Users\udayakumar\Day7\EmployeProject.MainOne\obj\Debug\EmployeProject.MainOne.csproj.AssemblyReference.cache
+C:\Users\udayakumar\Day7\EmployeProject.MainOne\obj\Debug\EmployeProject.MainOne.csproj.CoreCompileInputs.cache
+C:\Users\udayakumar\Day7\EmployeProject.MainOne\obj\Debug\EmployeProject.MainOne.exe
+C:\Users\udayakumar\Day7\EmployeProject.MainOne\obj\Debug\EmployeProject.MainOne.pdb
+C:\Users\udayakumar\Day7\EmployeProject.MainOne\obj\Debug\EmployeProject.MainOne.exe.config
+C:\Users\udayakumar\Day7\EmployeProject.MainOne\bin\Debug\EmployProject.Bal.dll
+C:\Users\udayakumar\Day7\EmployeProject.MainOne\bin\Debug\EmployProject.Exceptions.dll
+C:\Users\udayakumar\Day7\EmployeProject.MainOne\bin\Debug\ProjectEmploy.Models.dll
+C:\Users\udayakumar\Day7\EmployeProject.MainOne\bin\Debug\EmployProject.Dao.dll
+C:\Users\udayakumar\Day7\EmployeProject.MainOne\bin\Debug\EmployProject.Bal.pdb
+C:\Users\udayakumar\Day7\EmployeProject.MainOne\bin\Debug\EmployProject.Exceptions.pdb
+C:\Users\udayakumar\Day7\EmployeProject.MainOne\bin\Debug\ProjectEmploy.Models.pdb
+C:\Users\udayakumar\Day7\EmployeProject.MainOne\bin\Debug\EmployProject.Dao.pdb
+C:\Users\udayakumar\Day7\EmployeProject.MainOne\obj\Debug\EmployeP.2E3D4D8D.Up2Date
