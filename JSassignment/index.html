@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Random User Fetch</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      margin: 20px;
+    }
+    #userCard {
+      margin-top: 20px;
+      padding: 20px;
+      border: 1px solid #ddd;
+      border-radius: 10px;
+      display: inline-block;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    }
+    img {
+      border-radius: 50%;
+      margin-top: 10px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Fetch Random User</h1>
+  <button id="btnFetch">Get Random User</button>
+
+  <div id="userCard" style="display:none;">
+    <h2 id="name"></h2>
+    <p id="email"></p>
+    <img id="profilePic" src="" alt="Profile Picture">
+  </div>
+
+  <script>
+    document.getElementById("btnFetch").addEventListener("click", function() {
+      fetch("https://randomuser.me/api/")
+        .then(response => response.json())
+        .then(data => {
+          const user = data.results[0];
+          document.getElementById("name").innerText = 
+            `${user.name.title} ${user.name.first} ${user.name.last}`;
+          document.getElementById("email").innerText = user.email;
+          document.getElementById("profilePic").src = user.picture.large;
+          document.getElementById("userCard").style.display = "block";
+        })
+        .catch(error => console.error("Error fetching user:", error));
+    });
+  </script>
+</body>
+</html>
