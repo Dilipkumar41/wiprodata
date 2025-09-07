@@ -1,0 +1,485 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\udayakumar\\wiprodata\\GithubSecurity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF0211E9-CF03-420A-81D1-A264ED3CAD1D}|..\\JwtExampleDotnet\\JwtExampleDotnet.csproj|c:\\users\\udayakumar\\wiprodata\\jwtexampledotnet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF0211E9-CF03-420A-81D1-A264ED3CAD1D}|..\\JwtExampleDotnet\\JwtExampleDotnet.csproj|c:\\users\\udayakumar\\wiprodata\\jwtexampledotnet\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF0211E9-CF03-420A-81D1-A264ED3CAD1D}|..\\JwtExampleDotnet\\JwtExampleDotnet.csproj|c:\\users\\udayakumar\\wiprodata\\jwtexampledotnet\\controllers\\someprotectedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF0211E9-CF03-420A-81D1-A264ED3CAD1D}|..\\JwtExampleDotnet\\JwtExampleDotnet.csproj|c:\\users\\udayakumar\\wiprodata\\jwtexampledotnet\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF0211E9-CF03-420A-81D1-A264ED3CAD1D}|..\\JwtExampleDotnet\\JwtExampleDotnet.csproj|c:\\users\\udayakumar\\wiprodata\\jwtexampledotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF0211E9-CF03-420A-81D1-A264ED3CAD1D}|..\\JwtExampleDotnet\\JwtExampleDotnet.csproj|c:\\users\\udayakumar\\wiprodata\\jwtexampledotnet\\models\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF0211E9-CF03-420A-81D1-A264ED3CAD1D}|..\\JwtExampleDotnet\\JwtExampleDotnet.csproj|c:\\users\\udayakumar\\wiprodata\\jwtexampledotnet\\models\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF0211E9-CF03-420A-81D1-A264ED3CAD1D}|..\\JwtExampleDotnet\\JwtExampleDotnet.csproj|c:\\users\\udayakumar\\wiprodata\\jwtexampledotnet\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF0211E9-CF03-420A-81D1-A264ED3CAD1D}|..\\JwtExampleDotnet\\JwtExampleDotnet.csproj|c:\\users\\udayakumar\\wiprodata\\jwtexampledotnet\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF0211E9-CF03-420A-81D1-A264ED3CAD1D}|..\\JwtExampleDotnet\\JwtExampleDotnet.csproj|c:\\users\\udayakumar\\wiprodata\\jwtexampledotnet\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B192C9-DE96-4C7E-9488-F93653326F5E}|..\\MvcDemo\\MvcDemo.csproj|c:\\users\\udayakumar\\wiprodata\\mvcdemo\\views\\employ\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B192C9-DE96-4C7E-9488-F93653326F5E}|..\\MvcDemo\\MvcDemo.csproj|c:\\users\\udayakumar\\wiprodata\\mvcdemo\\views\\employ\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B192C9-DE96-4C7E-9488-F93653326F5E}|..\\MvcDemo\\MvcDemo.csproj|c:\\users\\udayakumar\\wiprodata\\mvcdemo\\views\\employ\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B192C9-DE96-4C7E-9488-F93653326F5E}|..\\MvcDemo\\MvcDemo.csproj|c:\\users\\udayakumar\\wiprodata\\mvcdemo\\views\\employ\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B192C9-DE96-4C7E-9488-F93653326F5E}|..\\MvcDemo\\MvcDemo.csproj|c:\\users\\udayakumar\\wiprodata\\mvcdemo\\views\\employ\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B192C9-DE96-4C7E-9488-F93653326F5E}|..\\MvcDemo\\MvcDemo.csproj|c:\\users\\udayakumar\\wiprodata\\mvcdemo\\controllers\\employcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B192C9-DE96-4C7E-9488-F93653326F5E}|..\\MvcDemo\\MvcDemo.csproj|c:\\users\\udayakumar\\wiprodata\\mvcdemo\\models\\employservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B192C9-DE96-4C7E-9488-F93653326F5E}|..\\MvcDemo\\MvcDemo.csproj|c:\\users\\udayakumar\\wiprodata\\mvcdemo\\models\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B192C9-DE96-4C7E-9488-F93653326F5E}|..\\MvcDemo\\MvcDemo.csproj|c:\\users\\udayakumar\\wiprodata\\mvcdemo\\mvcdemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B192C9-DE96-4C7E-9488-F93653326F5E}|..\\MvcDemo\\MvcDemo.csproj|c:\\users\\udayakumar\\wiprodata\\mvcdemo\\controllers\\detailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B192C9-DE96-4C7E-9488-F93653326F5E}|..\\MvcDemo\\MvcDemo.csproj|c:\\users\\udayakumar\\wiprodata\\mvcdemo\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B192C9-DE96-4C7E-9488-F93653326F5E}|..\\MvcDemo\\MvcDemo.csproj|c:\\users\\udayakumar\\wiprodata\\mvcdemo\\views\\details\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B192C9-DE96-4C7E-9488-F93653326F5E}|..\\MvcDemo\\MvcDemo.csproj|c:\\users\\udayakumar\\wiprodata\\mvcdemo\\views\\details\\module3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B192C9-DE96-4C7E-9488-F93653326F5E}|..\\MvcDemo\\MvcDemo.csproj|c:\\users\\udayakumar\\wiprodata\\mvcdemo\\views\\details\\module2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B192C9-DE96-4C7E-9488-F93653326F5E}|..\\MvcDemo\\MvcDemo.csproj|c:\\users\\udayakumar\\wiprodata\\mvcdemo\\views\\test\\lunchtime.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B192C9-DE96-4C7E-9488-F93653326F5E}|..\\MvcDemo\\MvcDemo.csproj|c:\\users\\udayakumar\\wiprodata\\mvcdemo\\views\\test\\course.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B192C9-DE96-4C7E-9488-F93653326F5E}|..\\MvcDemo\\MvcDemo.csproj|c:\\users\\udayakumar\\wiprodata\\mvcdemo\\views\\test\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96B192C9-DE96-4C7E-9488-F93653326F5E}|..\\MvcDemo\\MvcDemo.csproj|c:\\users\\udayakumar\\wiprodata\\mvcdemo\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23F712E0-B0F6-421D-A903-815DD4B51449}|GithubSecurity\\GithubSecurity.csproj|c:\\users\\udayakumar\\wiprodata\\githubsecurity\\githubsecurity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23F712E0-B0F6-421D-A903-815DD4B51449}|GithubSecurity\\GithubSecurity.csproj|solutionrelative:githubsecurity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SomeProtectedController.cs",
+              "DocumentMoniker": "C:\\Users\\udayakumar\\wiprodata\\JwtExampleDotnet\\Controllers\\SomeProtectedController.cs",
+              "RelativeDocumentMoniker": "..\\JwtExampleDotnet\\Controllers\\SomeProtectedController.cs",
+              "ToolTip": "C:\\Users\\udayakumar\\wiprodata\\JwtExampleDotnet\\Controllers\\SomeProtectedController.cs",
+              "RelativeToolTip": "..\\JwtExampleDotnet\\Controllers\\SomeProtectedController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T14:22:24.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\udayakumar\\wiprodata\\JwtExampleDotnet\\Models\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "..\\JwtExampleDotnet\\Models\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\udayakumar\\wiprodata\\JwtExampleDotnet\\Models\\JwtSettings.cs",
+              "RelativeToolTip": "..\\JwtExampleDotnet\\Models\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T14:03:58.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\udayakumar\\wiprodata\\JwtExampleDotnet\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\JwtExampleDotnet\\appsettings.json",
+              "ToolTip": "C:\\Users\\udayakumar\\wiprodata\\JwtExampleDotnet\\appsettings.json",
+              "RelativeToolTip": "..\\JwtExampleDotnet\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-25T14:15:39.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\udayakumar\\wiprodata\\JwtExampleDotnet\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "..\\JwtExampleDotnet\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\udayakumar\\wiprodata\\JwtExampleDotnet\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "..\\JwtExampleDotnet\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T14:21:22.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\udayakumar\\wiprodata\\JwtExampleDotnet\\Program.cs",
+              "RelativeDocumentMoniker": "..\\JwtExampleDotnet\\Program.cs",
+              "ToolTip": "C:\\Users\\udayakumar\\wiprodata\\JwtExampleDotnet\\Program.cs",
+              "RelativeToolTip": "..\\JwtExampleDotnet\\Program.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAYwIIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T14:17:21.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\udayakumar\\wiprodata\\JwtExampleDotnet\\Models\\IAuthService.cs",
+              "RelativeDocumentMoniker": "..\\JwtExampleDotnet\\Models\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\udayakumar\\wiprodata\\JwtExampleDotnet\\Models\\IAuthService.cs",
+              "RelativeToolTip": "..\\JwtExampleDotnet\\Models\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T13:59:22.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\udayakumar\\wiprodata\\JwtExampleDotnet\\Models\\AuthService.cs",
+              "RelativeDocumentMoniker": "..\\JwtExampleDotnet\\Models\\AuthService.cs",
+              "ToolTip": "C:\\Users\\udayakumar\\wiprodata\\JwtExampleDotnet\\Models\\AuthService.cs",
+              "RelativeToolTip": "..\\JwtExampleDotnet\\Models\\AuthService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T13:58:32.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\udayakumar\\wiprodata\\JwtExampleDotnet\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "..\\JwtExampleDotnet\\Models\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\udayakumar\\wiprodata\\JwtExampleDotnet\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "..\\JwtExampleDotnet\\Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T13:57:23.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\udayakumar\\wiprodata\\JwtExampleDotnet\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\JwtExampleDotnet\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\udayakumar\\wiprodata\\JwtExampleDotnet\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "..\\JwtExampleDotnet\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T13:55:51.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\udayakumar\\wiprodata\\JwtExampleDotnet\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "..\\JwtExampleDotnet\\Models\\Users.cs",
+              "ToolTip": "C:\\Users\\udayakumar\\wiprodata\\JwtExampleDotnet\\Models\\Users.cs",
+              "RelativeToolTip": "..\\JwtExampleDotnet\\Models\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T13:53:47.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\udayakumar\\wiprodata\\MvcDemo\\Views\\Employ\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\MvcDemo\\Views\\Employ\\Index.cshtml",
+              "ToolTip": "C:\\Users\\udayakumar\\wiprodata\\MvcDemo\\Views\\Employ\\Index.cshtml",
+              "RelativeToolTip": "..\\MvcDemo\\Views\\Employ\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-25T07:15:21.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\udayakumar\\wiprodata\\MvcDemo\\Views\\Employ\\Delete.cshtml",
+              "RelativeDocumentMoniker": "..\\MvcDemo\\Views\\Employ\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\udayakumar\\wiprodata\\MvcDemo\\Views\\Employ\\Delete.cshtml",
+              "RelativeToolTip": "..\\MvcDemo\\Views\\Employ\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-25T07:17:29.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\udayakumar\\wiprodata\\MvcDemo\\Views\\Employ\\Edit.cshtml",
+              "RelativeDocumentMoniker": "..\\MvcDemo\\Views\\Employ\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\udayakumar\\wiprodata\\MvcDemo\\Views\\Employ\\Edit.cshtml",
+              "RelativeToolTip": "..\\MvcDemo\\Views\\Employ\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-25T07:18:17.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\udayakumar\\wiprodata\\MvcDemo\\Views\\Employ\\Create.cshtml",
+              "RelativeDocumentMoniker": "..\\MvcDemo\\Views\\Employ\\Create.cshtml",
+              "ToolTip": "C:\\Users\\udayakumar\\wiprodata\\MvcDemo\\Views\\Employ\\Create.cshtml",
+              "RelativeToolTip": "..\\MvcDemo\\Views\\Employ\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-25T07:19:31.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "C:\\Users\\udayakumar\\wiprodata\\MvcDemo\\Views\\Employ\\Search.cshtml",
+              "RelativeDocumentMoniker": "..\\MvcDemo\\Views\\Employ\\Search.cshtml",
+              "ToolTip": "C:\\Users\\udayakumar\\wiprodata\\MvcDemo\\Views\\Employ\\Search.cshtml",
+              "RelativeToolTip": "..\\MvcDemo\\Views\\Employ\\Search.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-25T07:16:15.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EmployController.cs",
+              "DocumentMoniker": "C:\\Users\\udayakumar\\wiprodata\\MvcDemo\\Controllers\\EmployController.cs",
+              "RelativeDocumentMoniker": "..\\MvcDemo\\Controllers\\EmployController.cs",
+              "ToolTip": "C:\\Users\\udayakumar\\wiprodata\\MvcDemo\\Controllers\\EmployController.cs",
+              "RelativeToolTip": "..\\MvcDemo\\Controllers\\EmployController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAgwEQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T07:12:04.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EmployService.cs",
+              "DocumentMoniker": "C:\\Users\\udayakumar\\wiprodata\\MvcDemo\\Models\\EmployService.cs",
+              "RelativeDocumentMoniker": "..\\MvcDemo\\Models\\EmployService.cs",
+              "ToolTip": "C:\\Users\\udayakumar\\wiprodata\\MvcDemo\\Models\\EmployService.cs",
+              "RelativeToolTip": "..\\MvcDemo\\Models\\EmployService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T07:08:46.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Employ.cs",
+              "DocumentMoniker": "C:\\Users\\udayakumar\\wiprodata\\MvcDemo\\Models\\Employ.cs",
+              "RelativeDocumentMoniker": "..\\MvcDemo\\Models\\Employ.cs",
+              "ToolTip": "C:\\Users\\udayakumar\\wiprodata\\MvcDemo\\Models\\Employ.cs",
+              "RelativeToolTip": "..\\MvcDemo\\Models\\Employ.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T07:07:02.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Module2.cshtml",
+              "DocumentMoniker": "C:\\Users\\udayakumar\\wiprodata\\MvcDemo\\Views\\Details\\Module2.cshtml",
+              "RelativeDocumentMoniker": "..\\MvcDemo\\Views\\Details\\Module2.cshtml",
+              "ToolTip": "C:\\Users\\udayakumar\\wiprodata\\MvcDemo\\Views\\Details\\Module2.cshtml",
+              "RelativeToolTip": "..\\MvcDemo\\Views\\Details\\Module2.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-25T06:54:49.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DetailsController.cs",
+              "DocumentMoniker": "C:\\Users\\udayakumar\\wiprodata\\MvcDemo\\Controllers\\DetailsController.cs",
+              "RelativeDocumentMoniker": "..\\MvcDemo\\Controllers\\DetailsController.cs",
+              "ToolTip": "C:\\Users\\udayakumar\\wiprodata\\MvcDemo\\Controllers\\DetailsController.cs",
+              "RelativeToolTip": "..\\MvcDemo\\Controllers\\DetailsController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T06:52:56.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MvcDemo",
+              "DocumentMoniker": "C:\\Users\\udayakumar\\wiprodata\\MvcDemo\\MvcDemo.csproj",
+              "RelativeDocumentMoniker": "..\\MvcDemo\\MvcDemo.csproj",
+              "ToolTip": "C:\\Users\\udayakumar\\wiprodata\\MvcDemo\\MvcDemo.csproj",
+              "RelativeToolTip": "..\\MvcDemo\\MvcDemo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-25T06:35:57.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Module3.cshtml",
+              "DocumentMoniker": "C:\\Users\\udayakumar\\wiprodata\\MvcDemo\\Views\\Details\\Module3.cshtml",
+              "RelativeDocumentMoniker": "..\\MvcDemo\\Views\\Details\\Module3.cshtml",
+              "ToolTip": "C:\\Users\\udayakumar\\wiprodata\\MvcDemo\\Views\\Details\\Module3.cshtml",
+              "RelativeToolTip": "..\\MvcDemo\\Views\\Details\\Module3.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-25T06:55:20.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\udayakumar\\wiprodata\\MvcDemo\\Views\\Details\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\MvcDemo\\Views\\Details\\Index.cshtml",
+              "ToolTip": "C:\\Users\\udayakumar\\wiprodata\\MvcDemo\\Views\\Details\\Index.cshtml",
+              "RelativeToolTip": "..\\MvcDemo\\Views\\Details\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-25T06:54:18.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LunchTime.cshtml",
+              "DocumentMoniker": "C:\\Users\\udayakumar\\wiprodata\\MvcDemo\\Views\\Test\\LunchTime.cshtml",
+              "RelativeDocumentMoniker": "..\\MvcDemo\\Views\\Test\\LunchTime.cshtml",
+              "ToolTip": "C:\\Users\\udayakumar\\wiprodata\\MvcDemo\\Views\\Test\\LunchTime.cshtml",
+              "RelativeToolTip": "..\\MvcDemo\\Views\\Test\\LunchTime.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-25T06:45:56.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Course.cshtml",
+              "DocumentMoniker": "C:\\Users\\udayakumar\\wiprodata\\MvcDemo\\Views\\Test\\Course.cshtml",
+              "RelativeDocumentMoniker": "..\\MvcDemo\\Views\\Test\\Course.cshtml",
+              "ToolTip": "C:\\Users\\udayakumar\\wiprodata\\MvcDemo\\Views\\Test\\Course.cshtml",
+              "RelativeToolTip": "..\\MvcDemo\\Views\\Test\\Course.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-25T06:45:33.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "C:\\Users\\udayakumar\\wiprodata\\MvcDemo\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "..\\MvcDemo\\Controllers\\TestController.cs",
+              "ToolTip": "C:\\Users\\udayakumar\\wiprodata\\MvcDemo\\Controllers\\TestController.cs",
+              "RelativeToolTip": "..\\MvcDemo\\Controllers\\TestController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T06:39:18.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\udayakumar\\wiprodata\\MvcDemo\\Views\\Test\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\MvcDemo\\Views\\Test\\Index.cshtml",
+              "ToolTip": "C:\\Users\\udayakumar\\wiprodata\\MvcDemo\\Views\\Test\\Index.cshtml",
+              "RelativeToolTip": "..\\MvcDemo\\Views\\Test\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-25T06:39:54.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DemoController.cs",
+              "DocumentMoniker": "C:\\Users\\udayakumar\\wiprodata\\MvcDemo\\Controllers\\DemoController.cs",
+              "RelativeDocumentMoniker": "..\\MvcDemo\\Controllers\\DemoController.cs",
+              "ToolTip": "C:\\Users\\udayakumar\\wiprodata\\MvcDemo\\Controllers\\DemoController.cs",
+              "RelativeToolTip": "..\\MvcDemo\\Controllers\\DemoController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T06:20:23.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\udayakumar\\wiprodata\\GithubSecurity\\GithubSecurity\\Program.cs",
+              "RelativeDocumentMoniker": "GithubSecurity\\Program.cs",
+              "ToolTip": "C:\\Users\\udayakumar\\wiprodata\\GithubSecurity\\GithubSecurity\\Program.cs",
+              "RelativeToolTip": "GithubSecurity\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADAAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T05:11:30.15Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
